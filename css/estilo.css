@@ -68,7 +68,7 @@ header h1{
 	
 	font-weight: normal;
 	margin: 1em 70px 0 0;
-	font-size: 22px;
+	font-size: 2em;
 
 }
 header #avatar{
@@ -79,7 +79,7 @@ header #avatar{
 	margin: 1em 1.5em 0 0;
 }
 header #logo{
-	border-right: 10px solid black;
+	border-right: 3px solid black;
 
 }
 header #logo img{
@@ -136,14 +136,14 @@ nav ul li a{
 	padding: .5em 0;
 }
 #contenido{
-	margin: 1em;
+	margin: .5em;
 }
 #contenido .item{
 	background: white;
 	border-bottom: 10px solid #ED2424;;
 	min-height: 128px;
 	position: relative;
-	margin-bottom: 1em;
+	margin-bottom: 0.0em;
 
 }
 #contenido .item .autor_item{
